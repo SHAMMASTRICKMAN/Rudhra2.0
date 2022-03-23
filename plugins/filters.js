@@ -164,7 +164,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
         
-const array = afn','kooi','poda']
+const array = afn,
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
